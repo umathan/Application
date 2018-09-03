@@ -1,4 +1,4 @@
-package application.CustomerInfo;
+package Customer;
 
 import java.util.Scanner;
 

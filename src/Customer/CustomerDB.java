@@ -1,5 +1,5 @@
 
-package application.CustomerInfo;
+package Customer;
 
 public class CustomerDB {
     
