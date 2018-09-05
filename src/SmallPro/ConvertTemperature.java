@@ -1,4 +1,4 @@
-package application;
+package SmallPro;
 
 import java.util.Scanner;
 import java.text.NumberFormat;

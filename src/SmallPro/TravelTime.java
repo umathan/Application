@@ -1,5 +1,5 @@
 
-package application;
+package SmallPro;
 
 import java.util.Scanner;
 
